@@ -18,9 +18,9 @@ body{
 
 .grid-template-app-layout {
   grid-template:
-    'Header Header' auto
-    'Navbar Content' 1fr
-    'Statusbar Statusbar' 30px [row-end]
+    "Header Header" auto
+    "Navbar Content" 1fr
+    "Statusbar Statusbar" 0px [row-end]
     / 50px 1fr;
 }
 
